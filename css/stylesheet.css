@@ -1,0 +1,100 @@
+body{
+	background-color:#f7f7f7;
+	font-family:Trebuchet MS;
+	color:#4e4e4e;
+	margin:auto;
+	padding:0;
+	width:80%;
+	
+}
+
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+
+header{
+	background-color:#e7e7e7;
+
+	padding-top:30px;
+	min-height:50px;
+	
+}
+header  #logo{
+	
+	float:left;
+}
+
+#banner{
+	width:100%;
+	margin:auto;
+	overflow:hidden;
+	
+}
+
+header nav{
+	
+	float:right;
+	
+}
+header li{
+	float:left;
+	display:inline;
+	padding:0px 20px;
+	
+}
+
+header a{
+	text-decoration: none;
+	color:#4e4e4e;
+	
+}
+
+
+div.column {
+  float: left;
+  width: 31%;
+  padding: 10px;
+}
+
+div #graphic{
+	color:#bbbbb;
+	font-size:10px;
+	}
+
+#row-3 {
+  text-align:center;
+  }
+	
+#row-3 p{
+  padding:10px;
+	margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+	background-color:#efefef;
+
+  }
+
+
+section.boxes{
+	background-color:#202020;
+	margin:auto;
+	overflow:hidden;
+}
+
+.boxes h3{
+	color:#4e4e4e;
+	font :bold;
+}
+
+.box{
+	  float: left;
+  width: 23%;
+  padding: 10px;
+	
+}
+
+footer{
+		text-align:left;
+}
